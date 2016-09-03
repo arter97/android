@@ -562,6 +562,9 @@
   <!-- Repositories from AOSPA -->
     <project path="packages/apps/Gallery2" name="AOSPA/android_packages_apps_Gallery2" groups="pdk-fs" revision="refs/heads/marshmallow-caf" />
   <!-- -->
+  <!-- Repositories to add -->
+    <project path="external/zstd" name="arter97/android_external_zstd" revision="refs/heads/android" />
+  <!-- -->
 <!-- END arter97 -->
 
 </manifest>
