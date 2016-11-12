@@ -536,6 +536,7 @@
   <remove-project name="CyanogenMod/android_external_skia" />
   <remove-project name="CyanogenMod/android_external_sqlite" />
   <remove-project name="CyanogenMod/android_frameworks_base" />
+  <remove-project name="CyanogenMod/android_frameworks_native" />
   <!-- CMBugreport and CMUpdater is removed, not replaced -->
     <remove-project name="CyanogenMod/android_packages_apps_CMBugreport" />
     <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
@@ -556,6 +557,7 @@
   <project path="external/skia" name="arter97/android_external_skia" groups="pdk,qcom_msm8x26" />
   <project path="external/sqlite" name="arter97/android_external_sqlite" groups="pdk" />
   <project path="frameworks/base" name="arter97/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/native" name="arter97/android_frameworks_native" groups="pdk" />
   <project path="packages/apps/Settings" name="arter97/android_packages_apps_Settings" groups="pdk-fs" />
   <project path="system/core" name="arter97/android_system_core" groups="pdk" />
   <project path="system/extras" name="arter97/android_system_extras" groups="pdk" />
